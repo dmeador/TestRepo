@@ -1,0 +1,3 @@
+[submodule "TestSubmodule"]
+	path = TestOtherRepo_dir
+	url = git://github.com/dmeador/TestOtherRepo
